@@ -13,5 +13,9 @@ public class UI {
         System.out.println("This is HD!");
     }
 
+    public void  YOYOYO(){
+        //this isw yo yoy yoyoyoyo!!
+    }
+
 
 }
